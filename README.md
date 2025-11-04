@@ -43,8 +43,7 @@
 - แบ่งข้อมูลเป็น 2 ชุด:
   - Training Set (80%)
   - Validation Set (20%)
-```python
-```
+
 ### 2. การสร้างโมเดล
 - ดาวน์โหลด **ResNet18** ที่ผ่านการ Pre-train
 - **Freeze Parameters** เดิมเพื่อไม่ให้ถูกอัปเดตระหว่าง Train
